@@ -1,0 +1,5 @@
+name: ModuleLogger
+author: biielkts
+version: 1.0
+
+main: io.github.biielkts.logger.BukkitLogger
